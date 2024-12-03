@@ -23,7 +23,7 @@ jobs:
           GITLAB_PROJECT_ID: ${{ secrets.GITLAB_PROJECT_ID }}
           GITLAB_URL: ${{ secrets.GITLAB_URL }}
         run: |
-          curl --request POST \
+          curl -k --request POST \
           --header "PRIVATE-TOKEN: $GITLAB_TOKEN" \
           --header "Content-Type: application/json" \
           --data '{
