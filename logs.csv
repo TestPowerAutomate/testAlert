@@ -1,6 +1,5 @@
-﻿Data,Messaggio,Macchina
-10/12/2024 20-43-00,Orchestrator FR1 Down,Orchestrator FR1
-07/01/2025 20-48-00,Orchestrator FR1 Down,Orchestrator FR1
-07/01/2025 20-48-00,Orchestrator FR2 Down,Orchestrator FR2
-08-01-2025 13-07-06,All,Aggiunto sistema di logging csv
+﻿Data,Macchina,Messaggio
+10-12-2024 20-43-00,Orchestrator FR1,Orchestrator FR1 Down
+07-01-2025 20-48-00,Orchestrator FR1,Orchestrator FR1 Down
+07-01-2025 20-48-00,Orchestrator FR2,Orchestrator FR2 Down
 08-01-2025 13-12-35,All,Aggiunto sistema di logging csv
