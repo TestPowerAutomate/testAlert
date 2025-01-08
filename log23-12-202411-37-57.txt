@@ -1,1 +1,0 @@
-MDC - FR2 machine has failed delta seconds check!
