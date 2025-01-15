@@ -5,3 +5,5 @@
 08-01-2025 13-12-35,All,Aggiunto sistema di logging csv
 09-01-2025 02-40-00,All,Tutte le macchine sono down
 10-01-2025 10-32-12,ORCHESTRATOR - FR2,ORCHESTRATOR - FR2 machine has failed delta seconds check!
+
+15-01-2025 17-38-06,PRED ANONYMIZATION - FR1,PRED ANONYMIZATION - FR1 is down at 192.168.55.108:5071!
